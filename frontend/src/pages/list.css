@@ -1,0 +1,79 @@
+/* Set background color of the page */
+body {
+    background-color: #f8f9fa;
+  }
+  
+  /* Style the container */
+  .carriers-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style the header */
+  .carriers-header {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the list */
+  .carriers-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the list items */
+  .carriers-list-item {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style the carrier name */
+  .carrier-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the carrier description */
+  .carrier-description {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the carrier stream */
+  .carrier-stream {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the carrier interest */
+  .carrier-interest {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the carrier link */
+  .carrier-link {
+    display: block;
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #007bff;
+  }
+  
+  /* Style the video thumbnail */
+  .carrier-video-thumbnail {
+    margin-bottom: 10px;
+  }
+  
+  /* Style the carrier more info */
+  .carrier-more {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  

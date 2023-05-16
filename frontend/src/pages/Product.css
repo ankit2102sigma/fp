@@ -1,0 +1,10 @@
+.products-container{
+    margin: 25px;
+}
+.products-filter{
+    margin: 0px 10px 30px 20px; 
+}
+
+#sort-by{
+    width: 60px;
+}
